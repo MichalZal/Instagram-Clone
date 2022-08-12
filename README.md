@@ -10,7 +10,7 @@ It uses SSR to fetch the posts and display them on Frontend.
 This is great project where I learned how how to connect google apis with nextauth and firebase.
 
 
-## Getting Started
+# Getting Started
 
 ### First clone the repository 
 
