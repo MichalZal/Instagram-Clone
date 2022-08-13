@@ -16,6 +16,7 @@ import {
 
 import { HomeIcon } from "@heroicons/react/solid";
 import { signOut } from "next-auth/react";
+import { signIn } from "next-auth/react";
 
 const Header = () => {
 	const router = useRouter();
@@ -28,10 +29,6 @@ const Header = () => {
 
 	const submitSearch = (e) => {
 		e.preventDefault();
-	};
-
-	const signIn = () => {
-		router.push("/auth/signin");
 	};
 
 	return (
