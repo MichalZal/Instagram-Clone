@@ -5,7 +5,8 @@ const nextConfig = {
   images: {
       domains: [
         'links.papareact.com',
-        'scontent.fktw1-1.fna.fbcdn.net'
+        'scontent.fktw1-1.fna.fbcdn.net',
+        'lh3.googleusercontent.com'
       ],
     },
 

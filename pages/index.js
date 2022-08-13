@@ -6,7 +6,7 @@ import Header from '../components/Header'
 
 export default function Home() {
   return (
-    <div className="bg-gray-50 h-screen overflow-y-scroll
+    <div className="bg-gray-100 h-screen overflow-y-scroll
     scrollbar-hide">
       <Head>
         <meta name="description" content="This is instagram clone made in nextJS" />
